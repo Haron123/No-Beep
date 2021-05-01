@@ -8,3 +8,5 @@ run the following line
 xset b off
 ```
 and done.
+
+### This has to be executed after each restart so best use would be autorunning it at each boot
